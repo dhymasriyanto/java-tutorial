@@ -1,0 +1,83 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LatihanSwitch2",
+            "request": "launch",
+            "mainClass": "LatihanSwitch2",
+            "projectName": "LesDaspro_fe732e7d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoginDenganIf",
+            "request": "launch",
+            "mainClass": "LoginDenganIf",
+            "projectName": "LesDaspro_fe732e7d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BilanganPrima",
+            "request": "launch",
+            "mainClass": "BilanganPrima",
+            "projectName": "LesDaspro_fe732e7d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NegatifPositif",
+            "request": "launch",
+            "mainClass": "NegatifPositif",
+            "projectName": "LesDaspro_fe732e7d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kabisat",
+            "request": "launch",
+            "mainClass": "Kabisat",
+            "projectName": "LesDaspro_fe732e7d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GanjilGenap",
+            "request": "launch",
+            "mainClass": "GanjilGenap",
+            "projectName": "LesDaspro_fe732e7d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan1",
+            "request": "launch",
+            "mainClass": "Latihan1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LatihanSwitch",
+            "request": "launch",
+            "mainClass": "LatihanSwitch",
+            "projectName": "LesDaspro_11a0fdcd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LatihanOperator",
+            "request": "launch",
+            "mainClass": "LatihanOperator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan2",
+            "request": "launch",
+            "mainClass": "Latihan2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LatihanIf",
+            "request": "launch",
+            "mainClass": "LatihanIf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LatihanJOptionPane",
+            "request": "launch",
+            "mainClass": "LatihanJOptionPane"
+        }
+    ]
+}
